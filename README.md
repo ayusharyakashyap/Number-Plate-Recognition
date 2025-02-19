@@ -13,7 +13,6 @@ This repository contains a project for **License Plate Detection and Optical Cha
 │   │-- image2.jpg         # Test images for the final code
 │   │-- image3.jpg         # Test images for the final code
 │   │-- image4.jpg         # Test images for the final code
-│   │-- yolov8n.pt         # YOLOv8 model (if applicable)
 │-- 📂 Exploratory Code
 │   │-- Experiment.ipynb   # Jupyter notebook containing trial code
 │   │-- car.jpg            # Test image used for experimental code
